@@ -1,0 +1,15 @@
+streamlit==1.39.0
+llama-index-llms-ollama==0.1.5
+llama-index-embeddings-langchain==0.1.2
+langchain-huggingface==0.0.3
+llama-index-readers-file==0.1.30
+pydantic==1.10.14
+transformers==4.41.1
+sentence-transformers==3.0.1
+langchain==0.2.3
+SQLAlchemy==2.0.35
+pyyaml==6.0.2
+langchain-community==0.2.4
+pandas==2.2.3
+pymupdf==1.19.6
+python-docx==0.8.11
